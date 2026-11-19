@@ -4,7 +4,7 @@
 - 操作系统：Windows (WSL2 Ubuntu)
 - Foundry 版本：forge 1.1.0.0-nightly
 - 测试钱包地址：0x1866B14869E3DFfd28eF11dFaf85dF5e6d031b49
-- Lasna 地址页链接：
+- Lasna 地址页链接：https://lasna.reactscan.net/address/0x1866b14869e3dffd28ef11dfaf85df5e6d031b49
 - 本地测试结果（选做）：
 
 ## 遇到的问题
